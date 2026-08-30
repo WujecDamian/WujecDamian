@@ -30,15 +30,16 @@
 ### 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=WujecDamian&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=WujecDamian&theme=hacker&hide_border=true"  width="100%" alt="GitHub Streak" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=WujecDamian&style=flat-square&color=blueviolet" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=WujecDamian&style=flat-square&color=00ff00" alt="Profile views" />
 </p>
 
+---
 
 <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ZWdoZ2JmaXAzMHVweXV3NmJzcWs0MDY1c3EwMHdnbHFyNjgweXVsMyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3l5yJWhnbw5yyqDcQg/giphy.gif" width="100%" alt="Matrix GIF" />
