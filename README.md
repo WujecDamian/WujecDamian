@@ -29,11 +29,7 @@
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=WujecDamian&style=flat-square&color=00ff00" alt="Profile views" />
-</p>
 
----
 
 <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ZWdoZ2JmaXAzMHVweXV3NmJzcWs0MDY1c3EwMHdnbHFyNjgweXVsMyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3l5yJWhnbw5yyqDcQg/giphy.gif" width="100%" alt="Matrix GIF" />
