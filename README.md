@@ -1,6 +1,6 @@
 # Hi there | Witam 👋
 
-**Damian Wujec** · Fullstack/Frontend developer in the making  
+**Damian Wujec** · Fullstack/Frontend developer.
 
 ---
 
