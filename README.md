@@ -26,11 +26,3 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-
----
-
-
-
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ZWdoZ2JmaXAzMHVweXV3NmJzcWs0MDY1c3EwMHdnbHFyNjgweXVsMyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3l5yJWhnbw5yyqDcQg/giphy.gif" width="100%" alt="Matrix GIF" />
-</div>
